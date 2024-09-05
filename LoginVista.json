@@ -1,0 +1,25 @@
+{
+    "id": 3,
+    "name": "LoginVista",
+    "description": "LoginVista is an elegantly designed login page built using just HTML, CSS, and JavaScript. This minimalist yet visually interface focuses on providing a seamless and stylish user authentication experience.",
+    "features": [
+      {
+        "Account Authentication": "Seamlessly sign up or sign in to manage your profile and access personalized content."
+      },
+      {
+        "Responsive Design": "Enjoy a consistent and optimized viewing experience on any device, from desktops to smartphones."
+      },
+      {
+        "Search Functionality": "Easily find your favorite movies and shows with an intuitive search feature."
+      },
+      {
+        "Real APIs Integration": "Utilizes authentic APIs to provide up-to-date and accurate content, ensuring a reliable streaming experience."
+      }
+    ],
+    "summary": "ReactFlix combines cutting-edge technology with user-centric features to deliver a modern, efficient, and engaging video streaming service.",
+    
+    "github": "",
+    "liveLink": "",
+    "imageLink": ""
+  }
+  
