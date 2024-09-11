@@ -12,7 +12,7 @@
         "name": "Responsive Design",
         "detail": "Enjoy a sleek, modern interface with an optional dark theme that's easy on the eyes, perfect for extended viewing sessions."
       },
-      { 
+      {
         "name": "Live Chats",
         "detail": "Engage with real-time discussions and interactions through live Chat on your favorite videos."
       },
@@ -80,7 +80,7 @@
   },
   {
     "id": 4,
-    "name": "",
+    "name": "Chef_Food",
     "description": "",
     "features": [
       {
@@ -100,7 +100,7 @@
 
     "github": "",
     "liveLink": "",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/LandingPage.png"
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Chef-Food.png"
   },
   {
     "id": 5,
@@ -124,11 +124,35 @@
 
     "github": "",
     "liveLink": "",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Calculator.png"
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/LandingPage.png"
   },
   {
     "id": 6,
-    "name": "",
+    "name": "Web_Calculaor",
+    "description": "",
+    "features": [
+      {
+        "name": "",
+        "detail": "."
+      },
+      {
+        "name": "",
+        "detail": "."
+      },
+      {
+        "name": "",
+        "detail": "."
+      }
+    ],
+    "summary": "",
+
+    "github": "",
+    "liveLink": "",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Calculator.png"
+  },
+  {
+    "id": 7,
+    "name": "TicTacToe",
     "description": "",
     "features": [
       {
@@ -151,8 +175,8 @@
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/TicTacToe.png"
   },
   {
-    "id": 7,
-    "name": "",
+    "id": 8,
+    "name": "Old_Portfolio",
     "description": "",
     "features": [
       {
