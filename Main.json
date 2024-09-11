@@ -24,7 +24,8 @@
     "summary": "ReactTube blends performance, functionality, and a contemporary design to create an exceptional video streaming experience.",
     "github": "https://github.com/Ninad-arakh/New-Tube-Repo",
     "liveLink": "https://reac-tube-eight.vercel.app/",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/ReactTube.png"
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/ReactTube.png",
+    "ytKey": "tMuGx06RRqM"
   },
   {
     "id": 2,
@@ -52,7 +53,8 @@
 
     "github": "https://github.com/Ninad-arakh/netflix_gpt-2.0",
     "liveLink": "https://netflix-gpt-lac-eta.vercel.app/",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/ReactFlix.png"
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/ReactFlix.png",
+    "ytKey": "F8DU2iGFRyI"
   },
   {
     "id": 3,
@@ -76,7 +78,8 @@
 
     "github": "https://github.com/Ninad-arakh/Login-page",
     "liveLink": "https://ninad-arakh.github.io/Login-page/",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/loginVista.png"
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/loginVista.png",
+    "ytKey": "Rtsbi06gZv0"
   },
   {
     "id": 4,
@@ -100,7 +103,8 @@
 
     "github": "",
     "liveLink": "",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Chef-Food.png"
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Chef-Food.png",
+    "ytKey": "62o5Uvqw5ME"
   },
   {
     "id": 5,
@@ -124,7 +128,8 @@
 
     "github": "",
     "liveLink": "",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/LandingPage.png"
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/LandingPage.png",
+    "ytKey": ""
   },
   {
     "id": 6,
@@ -148,7 +153,8 @@
 
     "github": "",
     "liveLink": "",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Calculator.png"
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Calculator.png",
+    "ytKey": ""
   },
   {
     "id": 7,
@@ -172,7 +178,8 @@
 
     "github": "",
     "liveLink": "",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/TicTacToe.png"
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/TicTacToe.png",
+    "ytKey": ""
   },
   {
     "id": 8,
@@ -196,6 +203,7 @@
 
     "github": "",
     "liveLink": "",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/OldPortfolio.png"
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/OldPortfolio.png",
+    "ytKey": ""
   }
 ]
