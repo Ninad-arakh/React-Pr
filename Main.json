@@ -205,5 +205,30 @@
     "liveLink": "",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/OldPortfolio.png",
     "ytKey": ""
+  },
+  {
+    "id": 9,
+    "name": "Simple_Chess Game using java",
+    "description": "Simple_chess Game made with java",
+    "features": [
+      {
+        "name": "",
+        "detail": "."
+      },
+      {
+        "name": "",
+        "detail": "."
+      },
+      {
+        "name": "",
+        "detail": "."
+      }
+    ],
+    "summary": "",
+
+    "github": "",
+    "liveLink": "",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Simple_chess.png",
+    "ytKey": ""
   }
 ]
