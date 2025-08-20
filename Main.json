@@ -1,6 +1,30 @@
 [
   {
     "id": 1,
+    "name": "TenFlex",
+    "description": "TenFlex is a dynamic freelancing platform inspired by Fiverr, designed to connect clients with skilled freelancers. Built with Next.js for the frontend and Django for the backend, the website offers a full-featured experience including secure login/logout functionality, credential storage using hashed passwords, and Cloudinary support for efficient image handling. Freelancers can create and showcase their services through gig postings, while clients can browse, hire, and save gigs to their personalized gigList for future reference. TenFlex provides a smooth and secure environment for project collaboration, making it easy for freelancers to find work and for clients to find the right talent.",
+    "features": [
+      {
+        "name": "Gig Posting & Management",
+        "detail": "Freelancers can create, update, and manage their own gigs, showcasing their skills and services to potential clients with images and descriptions."
+      },
+      {
+        "name": "Client GigList",
+        "detail": "Clients can save their favorite gigs to a personal GigList, allowing them to easily organize and revisit services they’re interested in hiring."
+      },
+      {
+        "name": "Secure Authentication System",
+        "detail": "Full login/logout functionality with passwords securely hashed on the backend, ensuring user credentials are safely stored. Sessions are managed efficiently to protect user data."
+      }
+    ],
+    "summary": "TenFlex is a secure freelancing platform where freelancers can post gigs and clients can hire and save gigs to a personal list. Built with Next.js and Django, it features secure authentication with hashed credentials, seamless login/logout, and Cloudinary support for image handling — offering a smooth, efficient space for freelance work and hiring.",
+
+    "github": "https://github.com/TENFlex/TENFlex",
+    "liveLink": "https://ten-flex.vercel.app",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/TenFlexx.png",
+    "ytKey": null
+  },{
+    "id": 2,
     "name": "ReactTube",
     "description": "ReactTube is a cutting-edge video streaming platform built with React.js and Redux for a seamless user experience. Designed for high performance and speed, ReactTube offers fast loading times to keep you engaged with minimal wait. The platform incorporates sophisticated debouncing techniques to handle user interactions efficiently and ensure smooth video playback.",
     "features": [
@@ -28,7 +52,7 @@
     "ytKey": "tMuGx06RRqM"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "ReactFlix",
     "description": "ReactFlix is a high-performance video streaming platform designed with React.js and Redux for a smooth, interactive user experience. It offers rapid content loading to keep you engaged without unnecessary delays.",
     "features": [
@@ -57,7 +81,7 @@
     "ytKey": "F8DU2iGFRyI"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "LoginVista",
     "description": "LoginVista is an elegantly designed login page built using just HTML, CSS, and JavaScript. This minimalist yet visually interface focuses on providing a seamless and stylish user authentication experience.",
     "features": [
@@ -82,7 +106,7 @@
     "ytKey": "Rtsbi06gZv0"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Chef_Food",
     "description": "",
     "features": [
@@ -107,7 +131,7 @@
     "ytKey": "62o5Uvqw5ME"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Simple_Chess Game using java",
     "description": "Simple_chess Game made with java",
     "features": [
@@ -132,7 +156,7 @@
     "ytKey": ""
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "LandingPage",
     "description": "",
     "features": [
@@ -157,7 +181,7 @@
     "ytKey": ""
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Web_Calculaor",
     "description": "",
     "features": [
@@ -182,7 +206,7 @@
     "ytKey": ""
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "TicTacToe",
     "description": "",
     "features": [
@@ -207,7 +231,7 @@
     "ytKey": ""
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Old_Portfolio",
     "description": "",
     "features": [
