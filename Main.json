@@ -23,7 +23,8 @@
     "liveLink": "https://ten-flex.vercel.app",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/TenFlexx.png",
     "ytKey": null
-  },{
+  },
+  {
     "id": 2,
     "name": "ReactTube",
     "description": "ReactTube is a cutting-edge video streaming platform built with React.js and Redux for a seamless user experience. Designed for high performance and speed, ReactTube offers fast loading times to keep you engaged with minimal wait. The platform incorporates sophisticated debouncing techniques to handle user interactions efficiently and ensure smooth video playback.",
@@ -81,75 +82,48 @@
     "ytKey": "F8DU2iGFRyI"
   },
   {
-    "id": 4,
-    "name": "LoginVista",
-    "description": "LoginVista is an elegantly designed login page built using just HTML, CSS, and JavaScript. This minimalist yet visually interface focuses on providing a seamless and stylish user authentication experience.",
-    "features": [
-      {
-        "name": "Elegant Design",
-        "detail": "Combines simplicity with visual appeal for a modern look."
-      },
-      {
-        "name": "Responsive Design",
-        "detail": "Adapts to various screen sizes for optimal viewing on all devices."
-      },
-      {
-        "name": "Customizable",
-        "detail": "Easily tailored to fit different branding and design requirements."
-      }
-    ],
-    "summary": "LoginVista is a sleek and minimalist login page created with HTML, CSS, and JavaScript. It emphasizes a seamless and stylish user authentication experience, combining simplicity with elegance.",
-
-    "github": "https://github.com/Ninad-arakh/Login-page",
-    "liveLink": "https://ninad-arakh.github.io/Login-page/",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/loginVista.png",
-    "ytKey": "Rtsbi06gZv0"
-  },
-  {
     "id": 5,
     "name": "Chef_Food",
-    "description": "",
+    "description": "Chef_Food is a basic Swiggy clone built to offer a simple platform for browsing food items and placing orders. It mimics the basic functionalities of a food delivery service, providing a seamless user experience for discovering and ordering food online.",
     "features": [
       {
-        "name": "",
-        "detail": "."
+        "name": "Food Ordering System",
+        "detail": "Allows users to browse a variety of food items and place orders easily."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "User-Friendly Interface",
+        "detail": "Simple and clean interface for easy navigation and ordering."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "Basic Cart Functionality",
+        "detail": "Add items to the cart and proceed to order in just a few clicks."
       }
     ],
-    "summary": "",
-
-    "github": "",
-    "liveLink": "",
+    "summary": "Chef_Food is a basic clone of Swiggy, designed to demonstrate the core functionalities of a food delivery app. It provides a simple and intuitive interface for browsing food items and placing orders.",
+    "github": "https://github.com/Ninad-arakh/Chef_Food",
+    "liveLink": "https://ninad-arakh.github.io/Chef_Food/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Chef-Food.png",
     "ytKey": "62o5Uvqw5ME"
   },
   {
     "id": 6,
     "name": "Simple_Chess Game using java",
-    "description": "Simple_chess Game made with java",
+    "description": "Simple_Chess is a two-player chess game built using Java. It offers the classic chess experience where two players can compete against each other. The game includes the full set of chess rules and supports player vs player gameplay.",
     "features": [
       {
-        "name": "",
-        "detail": "."
+        "name": "Two-Player Mode",
+        "detail": "Play with a friend in classic two-player mode on the same device."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "Full Chess Rules",
+        "detail": "Supports all the standard chess rules for pieces, moves, and check/checkmate conditions."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "User-Friendly Interface",
+        "detail": "A simple console-based interface for playing the game with ease."
       }
     ],
-    "summary": "",
-
+    "summary": "Simple_Chess is a two-player chess game developed in Java. It allows players to enjoy a classic game of chess with all standard rules, making it a fun and easy way to play chess with friends.",
     "github": "https://github.com/Ninad-arakh/Simple-Chess",
     "liveLink": "",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Simple_chess.png",
@@ -158,102 +132,97 @@
   {
     "id": 7,
     "name": "LandingPage",
-    "description": "",
+    "description": "A beautifully crafted landing page that can be used as a template for various kinds of businesses or personal portfolios. Designed to make a strong first impression with a clean, responsive layout.",
     "features": [
       {
-        "name": "",
-        "detail": "."
+        "name": "Modern Layout",
+        "detail": "A clean, minimalist design that ensures a strong visual impact."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "Responsive Design",
+        "detail": "Optimized for all screen sizes, from mobile phones to desktops."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "Call to Action",
+        "detail": "Clear and engaging call-to-action buttons to increase user interaction."
       }
     ],
-    "summary": "",
-
-    "github": "",
-    "liveLink": "",
+    "summary": "LandingPage is a simple, yet visually appealing landing page that can be used for various purposes, from business promotions to personal portfolios. It focuses on user engagement through easy navigation and bold design.",
+    "github": "https://github.com/Ninad-arakh/LandingPage",
+    "liveLink": "https://ninad-arakh.github.io/LandingPage/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/LandingPage.png",
     "ytKey": ""
   },
   {
     "id": 8,
     "name": "Web_Calculaor",
-    "description": "",
+    "description": "Web_Calculator is a simple yet functional online calculator that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.",
     "features": [
       {
-        "name": "",
-        "detail": "."
+        "name": "Basic Arithmetic",
+        "detail": "Supports basic operations like addition, subtraction, multiplication, and division."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "Clear Button",
+        "detail": "Reset the calculator with a single click."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "Responsive Design",
+        "detail": "Works smoothly across different devices, including smartphones, tablets, and desktops."
       }
     ],
-    "summary": "",
-
-    "github": "",
-    "liveLink": "",
+    "summary": "Web_Calculator is a straightforward, responsive web application that provides a seamless experience for performing basic mathematical calculations. It is designed for both efficiency and ease of use.",
+    "github": "https://github.com/Ninad-arakh/Web-Calculator",
+    "liveLink": "https://ninad-arakh.github.io/Web-Calculator/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Calculator.png",
     "ytKey": ""
   },
   {
     "id": 9,
     "name": "TicTacToe",
-    "description": "",
+    "description": "TicTacToe is a basic web-based game developed using HTML, CSS, and JavaScript. It’s designed to help beginners learn the basics of web development while offering a fun way to play the classic Tic Tac Toe game with a friend.",
     "features": [
       {
-        "name": "",
-        "detail": "."
+        "name": "Two-Player Mode",
+        "detail": "Play against a friend in a simple, real-time Tic Tac Toe game."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "Basic Interface",
+        "detail": "A simple and clean design for easy gameplay."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "Interactive UI",
+        "detail": "Click on the grid to place X or O, and the game checks for a winner automatically."
       }
     ],
-    "summary": "",
-
-    "github": "",
-    "liveLink": "",
+    "summary": "TicTacToe is a basic, fun game developed using HTML, CSS, and JavaScript. It’s an ideal project for learning the fundamentals of web development, while allowing you to play a quick game with friends.",
+    "github": "https://github.com/Ninad-arakh/TicTacToe",
+    "liveLink": "https://ninad-arakh.github.io/TicTacToe/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/TicTacToe.png",
     "ytKey": ""
   },
   {
     "id": 10,
     "name": "Old_Portfolio",
-    "description": "",
+    "description": "Old_Portfolio is a personal portfolio website created to showcase previous work and skills. It highlights various projects and offers insights into the creator's journey in web development.",
     "features": [
       {
-        "name": "",
-        "detail": "."
+        "name": "Project Showcase",
+        "detail": "Displays a collection of previous projects with descriptions and links."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "Contact Form",
+        "detail": "Provides a simple contact form for visitors to reach out."
       },
       {
-        "name": "",
-        "detail": "."
+        "name": "Skill Overview",
+        "detail": "Displays key technical skills and areas of expertise."
       }
     ],
-    "summary": "",
-
-    "github": "",
-    "liveLink": "",
+    "summary": "Old_Portfolio is a classic personal portfolio site that serves as an introduction to the creator's work and skills in web development. It’s a simple yet effective tool for showcasing your expertise.",
+    "github": "https://github.com/Ninad-arakh/Old-Portfolio",
+    "liveLink": "https://ninad-arakh.github.io/Old-Portfolio/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/OldPortfolio.png",
     "ytKey": ""
   }
-  
 ]
