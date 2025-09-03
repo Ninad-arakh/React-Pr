@@ -22,6 +22,8 @@
     "github": "https://github.com/TENFlex/TENFlex",
     "liveLink": "https://ten-flex.vercel.app",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/TenFlexx.png",
+    "videoAvailable": false,
+    "isLive": true,
     "ytKey": null
   },
   {
@@ -50,6 +52,8 @@
     "github": "https://github.com/Ninad-arakh/New-Tube-Repo",
     "liveLink": "http://13.232.176.13/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/ReactTube.png",
+    "videoAvailable": true,
+    "isLive": true,
     "ytKey": "tMuGx06RRqM"
   },
   {
@@ -79,6 +83,8 @@
     "github": "https://github.com/Ninad-arakh/netflix_gpt-2.0",
     "liveLink": "https://netflix-gpt-lac-eta.vercel.app/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/ReactFlix.png",
+    "videoAvailable": true,
+    "isLive": true,
     "ytKey": "F8DU2iGFRyI"
   },
   {
@@ -103,6 +109,8 @@
     "github": "https://github.com/Ninad-arakh/Chef_Food",
     "liveLink": "https://ninad-arakh.github.io/Chef_Food/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Chef-Food.png",
+    "videoAvailable": true,
+    "isLive": false,
     "ytKey": "62o5Uvqw5ME"
   },
   {
@@ -127,6 +135,8 @@
     "github": "https://github.com/Ninad-arakh/Simple-Chess",
     "liveLink": "",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Simple_chess.png",
+    "videoAvailable": false,
+    "isLive": false,
     "ytKey": ""
   },
   {
@@ -151,6 +161,8 @@
     "github": "https://github.com/Ninad-arakh/LandingPage",
     "liveLink": "https://ninad-arakh.github.io/LandingPage/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/LandingPage.png",
+    "videoAvailable": false,
+    "isLive": true,
     "ytKey": ""
   },
   {
@@ -175,6 +187,8 @@
     "github": "https://github.com/Ninad-arakh/Web-Calculator",
     "liveLink": "https://ninad-arakh.github.io/Web-Calculator/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Calculator.png",
+    "videoAvailable": false,
+    "isLive": true,
     "ytKey": ""
   },
   {
@@ -199,6 +213,8 @@
     "github": "https://github.com/Ninad-arakh/TicTacToe",
     "liveLink": "https://ninad-arakh.github.io/TicTacToe/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/TicTacToe.png",
+    "videoAvailable": false,
+    "isLive": true,
     "ytKey": ""
   },
   {
@@ -223,6 +239,34 @@
     "github": "https://github.com/Ninad-arakh/Old-Portfolio",
     "liveLink": "https://ninad-arakh.github.io/Old-Portfolio/",
     "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/OldPortfolio.png",
+    "videoAvailable": false,
+    "isLive": true,
+    "ytKey": ""
+  },
+  {
+    "id": 4,
+    "name": "Login_Page_UI",
+    "description": "Login_Page_UI is a sleek and modern login page built using HTML, CSS, and JavaScript. It demonstrates front-end design skills and client-side interactivity with a focus on responsive layout and clean aesthetics.",
+    "features": [
+      {
+        "name": "Responsive Design",
+        "detail": "Adapts seamlessly to different screen sizes, ensuring a smooth user experience across devices."
+      },
+      {
+        "name": "Client-side Validation",
+        "detail": "Implements basic validation for user inputs such as email and password fields before submission."
+      },
+      {
+        "name": "Modern UI Elements",
+        "detail": "Features stylish input fields, animated buttons, and smooth transitions to enhance user engagement."
+      }
+    ],
+    "summary": "Login_Page_UI is a front-end project that showcases proficiency in UI design using web technologies. It's ideal for demonstrating interactive and responsive design capabilities.",
+    "github": "https://github.com/Ninad-arakh/Login-page",
+    "liveLink": "https://ninad-arakh.github.io/Login-page/",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/loginVista.png",
+    "videoAvailable": false,
+    "isLive": true,
     "ytKey": ""
   }
 ]
