@@ -1,5 +1,35 @@
 [
   {
+    "id": 11,
+    "name": "DevTinder",
+    "description": "DevTinder is a full-stack social networking platform built with the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to connect, interact, and communicate in real-time. The platform features secure authentication using JWT and bcrypt, real-time messaging with WebSockets, and profile management with image upload support using Multer. Designed with scalability and modularity in mind, DevTinder provides a robust foundation for expanding into a full social media ecosystem.",
+    "features": [
+      {
+        "name": "User Authentication",
+        "detail": "Implemented secure login, signup, and logout functionality using JWT for session management and bcrypt for password hashing."
+      },
+      {
+        "name": "Real-Time Messaging",
+        "detail": "Integrated WebSocket-based chat system to allow users to communicate instantly with one another."
+      },
+      {
+        "name": "Profile Management",
+        "detail": "Users can upload and manage profile pictures, with image handling done securely using Multer middleware."
+      },
+      {
+        "name": "Scalable Architecture",
+        "detail": "Developed with a modular architecture, ensuring maintainability, performance, and readiness for future feature expansion."
+      }
+    ],
+    "summary": "DevTinder is a MERN-based social networking platform with secure JWT authentication, real-time WebSocket chat, and user profile management with image uploads. It is designed to be scalable, modular, and easily extendable for future social features.",
+    "github": "https://github.com/Ninad-arakh/devTinder_Front-end",
+    "liveLink": "https://dev-tinder-rose.vercel.app/",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Devtinder.png",
+    "videoAvailable": false,
+    "isLive": true,
+    "ytKey": null
+  },
+  {
     "id": 1,
     "name": "TenFlex",
     "description": "TenFlex is a dynamic freelancing platform inspired by Fiverr, designed to connect clients with skilled freelancers. Built with Next.js for the frontend and Django for the backend, the website offers a full-featured experience including secure login/logout functionality, credential storage using hashed passwords, and Cloudinary support for efficient image handling. Freelancers can create and showcase their services through gig postings, while clients can browse, hire, and save gigs to their personalized gigList for future reference. TenFlex provides a smooth and secure environment for project collaboration, making it easy for freelancers to find work and for clients to find the right talent.",
@@ -86,6 +116,36 @@
     "videoAvailable": true,
     "isLive": true,
     "ytKey": "F8DU2iGFRyI"
+  },
+  {
+    "id": 12,
+    "name": "Password Hasher",
+    "description": "Password Hasher is a modern and secure web application designed to help developers and users generate strong, consistent password hashes with ease. Built with React for a responsive frontend and enhanced with Framer Motion for smooth animations, the application offers both functionality and an engaging user experience. Users can input any password and instantly generate a secure hash, with 10 rounds of salting applied to strengthen protection against brute-force attacks. The system ensures deterministic hashing (same password always produces the same hash) while maintaining security standards. To improve usability, the application provides a password visibility toggle, enabling users to check their input before hashing, as well as a one-click copy-to-clipboard feature for quick integration of hashes into applications. The combination of robust password security, intuitive UI, and sleek animated transitions makes Password Hasher both a practical tool and a polished project showcasing frontend development skills.",
+    "features": [
+      {
+        "name": "Secure Hash Generation",
+        "detail": "Generates strong password hashes with 10 salting rounds, ensuring consistent and reliable output for the same password."
+      },
+      {
+        "name": "Copy to Clipboard",
+        "detail": "One-click copy functionality to easily copy the generated hash for use in applications or storage."
+      },
+      {
+        "name": "Password Show/Hide",
+        "detail": "Toggle option to display or hide the entered password, making it easy to verify input before hashing."
+      },
+      {
+        "name": "Framer Motion Animations",
+        "detail": "Smooth, modern animations using Framer Motion to provide a polished and interactive user experience."
+      }
+    ],
+    "summary": "Password Hasher is a React-based tool with Framer Motion animations that securely generates hashed passwords with 10 salting rounds. It features copy-to-clipboard, password visibility toggle, and a sleek interactive UI for developers and users alike.",
+    "github": "https://github.com/Ninad-arakh/password-hasher",
+    "liveLink": "https://password-hasher-goat.vercel.app/",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/PasswordHasher.png",
+    "videoAvailable": false,
+    "isLive": true,
+    "ytKey": null
   },
   {
     "id": 5,
@@ -268,5 +328,35 @@
     "videoAvailable": false,
     "isLive": true,
     "ytKey": ""
+  },
+  {
+    "id": 13,
+    "name": "Timeline Animation Website",
+    "description": "Timeline Animation Website is an interactive project built while learning GSAP animations, focusing on creating smooth and engaging UI transitions. The site features a minimal design with a cinematic background and a custom animated navigation menu. When the menu icon is clicked, a sidebar menu slides in from the right with a fluid 'power1.out' ease, while the menu items animate sequentially with a 'bounce.out' ease, giving the entire interaction a lively and polished feel. This project highlights the integration of GSAP's powerful timeline-based animation system into a real-world user interface, demonstrating skills in animation sequencing, easing functions, and interactive design.",
+    "features": [
+      {
+        "name": "Animated Sidebar Menu",
+        "detail": "Menu slides in from the right side using GSAP's 'power1.out' easing for a smooth transition."
+      },
+      {
+        "name": "Staggered Menu Items",
+        "detail": "Navigation options animate with 'bounce.out' easing, creating a playful and engaging entry sequence."
+      },
+      {
+        "name": "GSAP Timeline Integration",
+        "detail": "Used GSAP's timeline-based animation system to precisely control sequence, timing, and easing of multiple elements."
+      },
+      {
+        "name": "Interactive Design",
+        "detail": "Clean, interactive layout that responds fluidly to user actions, showcasing frontend animation best practices."
+      }
+    ],
+    "summary": "An interactive GSAP-powered website featuring a sidebar navigation menu that slides in with 'power1.out' easing and staggered menu items with 'bounce.out' easing. Demonstrates smooth UI animations, sequencing with GSAP timelines, and engaging user interactions.",
+    "github": "https://github.com/Ninad-arakh/gsap-timelineAnimation",
+    "liveLink": "https://ninad-arakh.github.io/gsap-timelineAnimation/",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/TimelineAnimation.png",
+    "videoAvailable": false,
+    "isLive": true,
+    "ytKey": null
   }
 ]
