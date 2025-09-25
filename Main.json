@@ -24,7 +24,7 @@
     "summary": "DevTinder is a MERN-based social networking platform with secure JWT authentication, real-time WebSocket chat, and user profile management with image uploads. It is designed to be scalable, modular, and easily extendable for future social features.",
     "github": "https://github.com/Ninad-arakh/devTinder_Front-end",
     "liveLink": "https://dev-tinder-rose.vercel.app/",
-    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Devtinder.png",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/DevTinder.png",
     "videoAvailable": false,
     "isLive": true,
     "ytKey": null
