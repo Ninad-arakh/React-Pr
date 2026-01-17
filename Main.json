@@ -358,5 +358,209 @@
     "videoAvailable": false,
     "isLive": true,
     "ytKey": null
+  },
+  {
+    "id": 14,
+    "name": "Library Management System",
+    "description": "Library Management System is a full-stack web application designed to digitize and automate traditional library operations that are typically slow, manual, and error-prone. The system provides a centralized platform to manage books, users, and borrowing records efficiently. It eliminates manual registers and repetitive paperwork by offering real-time tracking of book availability, issue/return status, and user activity. Built with a clean and intuitive interface, this project focuses on usability, data consistency, and practical real-world library workflows.",
+    "features": [
+      {
+        "name": "Book Management",
+        "detail": "Add, update, delete, and view books with details such as title, author, category, and availability status."
+      },
+      {
+        "name": "User Management",
+        "detail": "Manage library members with proper records, enabling controlled access to issuing and returning books."
+      },
+      {
+        "name": "Issue & Return System",
+        "detail": "Track book issue and return operations with automatic availability updates to prevent duplicate or invalid transactions."
+      },
+      {
+        "name": "Search & Filtering",
+        "detail": "Quickly search books and users using keywords and filters, improving accessibility in large collections."
+      },
+      {
+        "name": "Centralized Data Handling",
+        "detail": "All library data is stored and managed centrally, reducing redundancy and improving data accuracy."
+      }
+    ],
+    "summary": "A practical Library Management System that automates core library operations like book management, user handling, and issue/return tracking. Designed to replace manual processes with a structured, efficient, and user-friendly digital solution suitable for real-world library environments.",
+    "github": "",
+    "liveLink": "",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Library-Management-System.png",
+    "videoAvailable": false,
+    "isLive": false,
+    "ytKey": null
+  },
+  {
+    "id": 15,
+    "name": "Commodities Management System",
+    "description": "Commodities Management System is a web-based application built to manage, monitor, and organize commodity-related data in a structured and efficient way. The system is designed to replace scattered spreadsheets and manual tracking methods by providing a centralized platform for handling commodities, pricing, and availability. It focuses on clarity, data consistency, and ease of use, making it suitable for businesses or individuals dealing with multiple commodities and frequent updates.",
+    "features": [
+      {
+        "name": "Commodity Listing & Management",
+        "detail": "Add, update, and manage commodities with essential details such as name, category, and current status."
+      },
+      {
+        "name": "Price Tracking",
+        "detail": "Maintain and update commodity prices dynamically, enabling quick reference and better decision-making."
+      },
+      {
+        "name": "Search & Filtering",
+        "detail": "Easily search and filter commodities based on relevant parameters for faster access to specific records."
+      },
+      {
+        "name": "Centralized Dashboard",
+        "detail": "Single interface to view and manage all commodity data, reducing dependency on manual tools."
+      },
+      {
+        "name": "Responsive Web Interface",
+        "detail": "Fully responsive design ensuring smooth usage across desktops, tablets, and mobile devices."
+      }
+    ],
+    "summary": "A centralized Commodities Management System that simplifies commodity tracking, pricing updates, and data organization. Built to replace manual tracking with a structured, responsive, and scalable web-based solution.",
+    "github": "https://github.com/Ninad-arakh/commodities-management-system",
+    "liveLink": "https://commodities-management-system-alpha.vercel.app",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Commodities-Management-System.png",
+    "videoAvailable": false,
+    "isLive": true,
+    "ytKey": null
+  },
+  {
+    "id": 16,
+    "name": "AI Support Chatbot",
+    "description": "AI Support Chatbot is an intelligent web-based assistant built using Google Gemini LLM to simulate real-world customer support interactions. The chatbot is designed to understand natural language queries and provide context-aware, human-like responses in real time. It focuses on reducing manual support effort by handling common queries, guiding users through issues, and delivering instant responses. This project demonstrates practical integration of a large language model into a frontend application rather than a toy demo.",
+    "features": [
+      {
+        "name": "Google Gemini LLM Integration",
+        "detail": "Integrated Google Gemini API to process user queries and generate accurate, context-aware responses."
+      },
+      {
+        "name": "Real-Time Conversational Interface",
+        "detail": "Chat-based UI that allows users to interact naturally, similar to modern customer support systems."
+      },
+      {
+        "name": "Context-Aware Responses",
+        "detail": "Maintains conversational context to provide relevant follow-up answers instead of isolated replies."
+      },
+      {
+        "name": "Scalable Support Use Case",
+        "detail": "Designed to handle repetitive support queries, reducing dependency on manual customer support."
+      },
+      {
+        "name": "Clean & Minimal UI",
+        "detail": "Simple and intuitive interface focused on usability and fast interactions."
+      }
+    ],
+    "summary": "An AI-powered support chatbot built with Google Gemini LLM that delivers real-time, context-aware responses. Demonstrates practical LLM integration, conversational UI design, and real-world customer support automation.",
+    "github": "",
+    "liveLink": "",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Ai-support-chatbot.png",
+    "videoAvailable": false,
+    "isLive": false,
+    "ytKey": null
+  },
+  {
+    "id": 17,
+    "name": "Feeble Pixel-Perfect Frontend Implementation",
+    "description": "Feeble Pixel-Perfect Frontend Implementation is a frontend-focused project built by translating a high-fidelity Figma design into a fully functional web interface with exact layouts, spacing, interactions, and animations. The primary goal of this project was precision — matching the design down to the smallest visual detail while maintaining clean, maintainable code. It demonstrates the ability to convert design systems into production-ready UI with accurate animations and interaction behavior.",
+    "features": [
+      {
+        "name": "Pixel-Perfect Figma to Code Conversion",
+        "detail": "Implemented the interface to match the Figma design exactly, including spacing, typography, colors, and layout structure."
+      },
+      {
+        "name": "Accurate Animations & Interactions",
+        "detail": "Recreated all micro-interactions and animations as defined in the design, ensuring smooth and consistent UI behavior."
+      },
+      {
+        "name": "Responsive Layout Implementation",
+        "detail": "Maintained visual consistency across different screen sizes without breaking the original design intent."
+      },
+      {
+        "name": "Clean Component Structure",
+        "detail": "Used a structured and modular component approach to keep the codebase readable and scalable."
+      },
+      {
+        "name": "Production-Oriented Frontend Workflow",
+        "detail": "Focused on real-world frontend practices such as design fidelity, maintainability, and performance."
+      }
+    ],
+    "summary": "A pixel-perfect frontend implementation of Feeble’s Figma design with precise layouts, interactions, and animations. Highlights strong attention to detail, accurate Figma-to-code translation, and production-ready frontend development skills.",
+    "github": "https://github.com/Ninad-arakh/feeble-assignment",
+    "liveLink": "https://feeble-ninad.vercel.app",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/feeble.png",
+    "videoAvailable": false,
+    "isLive": true,
+    "ytKey": null
+  },
+  {
+    "id": 18,
+    "name": "ScrollCraft",
+    "description": "ScrollCraft is an animation-driven frontend project focused on crafting smooth, immersive scroll-based interactions. The project demonstrates how scroll position can be used as a primary driver for animations, transitions, and content reveals. Built with performance and visual flow in mind, ScrollCraft turns scrolling into a deliberate user experience rather than a passive action, highlighting advanced frontend animation control and timing.",
+    "features": [
+      {
+        "name": "Scroll-Based Animations",
+        "detail": "Animations are triggered and controlled based on scroll position, creating a dynamic and engaging browsing experience."
+      },
+      {
+        "name": "Smooth Transition Effects",
+        "detail": "Carefully tuned transitions ensure fluid motion without jank or abrupt visual jumps."
+      },
+      {
+        "name": "Section-Based Reveal Effects",
+        "detail": "Content elements animate into view as users scroll, improving visual hierarchy and storytelling."
+      },
+      {
+        "name": "Performance-Focused Implementation",
+        "detail": "Optimized animation logic to maintain smooth performance across devices and screen sizes."
+      },
+      {
+        "name": "Modern UI Motion Design",
+        "detail": "Applies contemporary motion design principles to create an immersive, scroll-driven interface."
+      }
+    ],
+    "summary": "A scroll-driven animation project that transforms scrolling into an interactive experience. Demonstrates advanced control over scroll-based animations, smooth transitions, and performance-conscious frontend motion design.",
+    "github": "https://github.com/Ninad-arakh/ScrollCraft",
+    "liveLink": "https://scroll-craft-murex.vercel.app",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/Scroll-Craft.png",
+    "videoAvailable": false,
+    "isLive": true,
+    "ytKey": null
+  },
+  {
+    "id": 19,
+    "name": "k72.ca Website Replica",
+    "description": "k72.ca Website Replica is a pixel-accurate recreation of the original k72.ca website, built while learning and experimenting with GSAP animations. The goal of this project was not originality, but precision — reproducing complex layouts, transitions, and scroll-based animations exactly as seen on the original site. It showcases hands-on understanding of GSAP, animation timing, and motion-heavy UI replication using React and TailwindCSS.",
+    "features": [
+      {
+        "name": "Exact Website Replication",
+        "detail": "Recreated the original k72.ca website layout, visual structure, and interaction flow with high accuracy."
+      },
+      {
+        "name": "GSAP-Powered Animations",
+        "detail": "Implemented complex animations and transitions using GSAP, including scroll-driven and timeline-based effects."
+      },
+      {
+        "name": "Scroll-Based Motion Effects",
+        "detail": "Animations respond directly to user scroll behavior, mirroring the motion-heavy experience of the original site."
+      },
+      {
+        "name": "React + TailwindCSS Stack",
+        "detail": "Built using React for component structure and TailwindCSS for rapid, consistent styling."
+      },
+      {
+        "name": "Animation Learning Focus",
+        "detail": "Used as a learning project to deeply understand GSAP timelines, easing, sequencing, and performance."
+      }
+    ],
+    "summary": "A pixel-accurate replica of the k72.ca website built with React, TailwindCSS, and GSAP. Demonstrates advanced animation replication, scroll-based motion control, and deep practical understanding of GSAP in real-world UI cloning.",
+    "github": "https://github.com/Ninad-arakh/k72",
+    "liveLink": "",
+    "imageLink": "https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/k72.ca-Replica.png",
+    "videoAvailable": false,
+    "isLive": false,
+    "ytKey": null
   }
 ]
